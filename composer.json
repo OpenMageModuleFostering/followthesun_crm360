@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Followthesun_Crm360",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Rassemblez toutes vos données clients/achats/produits dans votre référentiel client unique CRM360° !",
+    "authors": [
+    {
+        "name": "Followthesun",
+        "email": "support.magento@fts-services.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

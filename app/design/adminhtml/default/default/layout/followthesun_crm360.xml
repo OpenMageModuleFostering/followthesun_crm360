@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<layout>
+    <crm360_adminhtml_log_index>
+        <reference name="head">
+            <action method="setTitle" translate="title"><title>Log</title></action>
+        </reference>
+        <reference name="content">
+            <block type="crm360/adminhtml_log" name="crm360_log" />
+        </reference>
+    </crm360_adminhtml_log_index>
+</layout>

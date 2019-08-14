@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package>
+    <name>Followthesun_Crm360</name>
+    <version>0.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Rassemblez toutes vos donn&#xE9;es clients/achats/produits dans votre r&#xE9;f&#xE9;rentiel client unique CRM360&#xB0; !</summary>
+    <description>Redonnez de l&#x2019;agilit&#xE9; &#xE0; votre Relation Client.&lt;br /&gt;&lt;br /&gt;&#xD;
+&#xD;
+CRM360&#xB0;, &#xE9;dit&#xE9; par la soci&#xE9;t&#xE9; follow the sun, est la solution CRM Marketing BtoC la plus &#xE9;conomique, qui permet de conna&#xEE;tre et dialoguer avec chacun de ses clients, en moins de huit jours, pour fid&#xE9;liser et d&#xE9;velopper ses ventes.&lt;br /&gt;&lt;br /&gt;&#xD;
+&#xD;
+V&#xE9;ritable solution de travail collaborative entre les agences Marketing et les marques, cette solution SaaS propose :&#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;- une vision &#xE0; 360&#xB0; de chacun de ses clients&lt;/li&gt;&#xD;
+&lt;li&gt;- la  gestion int&#xE9;gr&#xE9;e et automatis&#xE9;e de la communication multicanal&lt;/li&gt;&#xD;
+&lt;li&gt;- un acc&#xE8;s dynamique aux donn&#xE9;es&lt;/li&gt;&#xD;
+&lt;li&gt;- une gestion des droits adapt&#xE9;e aux structures d&#xE9;centralis&#xE9;es&lt;/li&gt;&#xD;
+&lt;/ul&gt;&#xD;
+Nos points forts : &#xD;
+&lt;ul&gt;&#xD;
+&lt;li&gt;- un &#xAB; traitement qualit&#xE9; &#xBB; int&#xE9;gr&#xE9; des donn&#xE9;es&lt;/li&gt;&#xD;
+&lt;li&gt;- une capacit&#xE9; de ciblages multicrit&#xE8;res simple et puissante&lt;/li&gt;&#xD;
+&lt;li&gt;- une architecture ouverte pour des fonctionnalit&#xE9;s compl&#xE9;mentaires&lt;/li&gt;&#xD;
+&lt;li&gt;- une solution adapt&#xE9;e aux organisations Internationales&lt;/li&gt;&#xD;
+&lt;/ul&gt;&#xD;
+Disposez de votre propre base de donn&#xE9;es Marketing &#xAB; all inclusive &#xBB;. &lt;br /&gt;&lt;br /&gt;&#xD;
+&#xD;
+Pour en savoir plus, rendez-vous sur http://crm360.fts-services.com</description>
+    <notes>-</notes>
+    <authors><author><name>Followthesun</name><user>Followthesun</user><email>support.magento@fts-services.com</email></author></authors>
+    <date>2014-01-28</date>
+    <time>13:30:40</time>
+    <contents><target name="magecommunity"><dir name="Followthesun"><dir name="Crm360"><dir name="Block"><dir name="Adminhtml"><dir name="Log"><file name="Grid.php" hash="4e7bbd40c3b5bfdd214fb5b9c9e2ba93"/></dir><file name="Log.php" hash="735456f8665be8ccb491c4db2ddd65e9"/></dir></dir><dir name="Helper"><file name="Data.php" hash="d0f298a2f7dc08e581dd4325afc97ceb"/></dir><dir name="Model"><file name="Log.php" hash="86cb866b5c324c0ad83ff5c2a5c96492"/><dir name="Mysql4"><dir name="Log"><file name="Collection.php" hash="6d8dff8a190e4aebb7bbe470f70d5e9f"/></dir><file name="Log.php" hash="1848a798c760a87133671ebe4e26ff6b"/></dir></dir><dir name="controllers"><dir name="Adminhtml"><file name="LogController.php" hash="c107355484f115e681208f74a7e05be6"/></dir><file name="IndexController.php" hash="25b466455fb871f50ebed032b884af3e"/></dir><dir name="etc"><file name="config.xml" hash="b11677837d4af13da851ac7bad55a021"/><file name="system.xml" hash="b1d9b17e8c347e334f30b99e57c2ee75"/></dir><dir name="sql"><dir name="crm360_setup"><file name="mysql4-install-0.1.0.php" hash="5da8a1c638dc921e01c79b15dffeac75"/></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Followthesun_Crm360.xml" hash="a08a9efc4777fe67b23322bb7cd0ce05"/></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="followthesun_crm360.xml" hash="df2f2d310f3290e7c59bf601f5805f2d"/></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
