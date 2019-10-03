@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Followthesun_Crm360",
+    "name": "openmage-module-fostering\/followthesun_crm360",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Rassemblez toutes vos donn\u00e9es clients\/achats\/produits dans votre r\u00e9f\u00e9rentiel client unique CRM360\u00b0 !",
     "authors": [
